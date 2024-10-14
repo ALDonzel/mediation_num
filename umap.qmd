@@ -14,12 +14,9 @@ editor: visual
 
 # 1. Description
 
-uMap est un service de cartographie basé sur OpenStreetMap.
-Avantage : outil open source
-Inconvénient : nécessite un petit peu de concentration à la première utilisation et de bien comprendre la logique des calques propres à la cartographie. Comme pour la très grande majorité des outils cartographiques, le fond de carte est actuel, ce qui peut parfois poser des problèmes pour des données historiques.
+uMap est un service de cartographie basé sur OpenStreetMap. Avantage : outil open source Inconvénient : nécessite un petit peu de concentration à la première utilisation et de bien comprendre la logique des calques propres à la cartographie. Comme pour la très grande majorité des outils cartographiques, le fond de carte est actuel, ce qui peut parfois poser des problèmes pour des données historiques.
 
-Pour l'utiliser, vous aurez besoin d'un fichier de données (csv) avec une dimension géographique. Les coordonnées géographiques doivent se trouver dans 2 colonnes intitulées “latitude” (ou lat) et “longitude” (ou long).
-
+Pour l'utiliser, vous aurez besoin d'un fichier de données (csv) avec une dimension géographique. Les coordonnées géographiques doivent se trouver dans 2 colonnes intitulées "latitude" (ou lat) et "longitude" (ou long).
 
 # 2. Exercice
 
@@ -33,9 +30,9 @@ Cartographions ls aides aux artistes avec le fichier "secours-aux-artistes-et-ar
 
 # 3. Alternatives
 
- - [GoGoCarto](https://gogocarto.fr/projects) : très proche de uMap
- 
-- [Khartis](https://www.sciencespo.fr/cartographie/khartis/) : projet du MediaLab de SciencePo, avantage de Khartis : possède des fonds de carte des départements de la IIIè République et permet d’ajouter son propre fonds de carte (quelques pistes de fonds de carte historique [ici](https://ausohnum.hypotheses.org/1089))
+-   [GoGoCarto](https://gogocarto.fr/projects) : très proche de uMap
+
+-   [Khartis](https://www.sciencespo.fr/cartographie/khartis/) : projet du MediaLab de SciencePo, avantage de Khartis : possède des fonds de carte des départements de la IIIè République et permet d'ajouter son propre fonds de carte (quelques pistes de fonds de carte historique [ici](https://ausohnum.hypotheses.org/1089))
 
 # 4. Ressources en ligne
 
@@ -45,34 +42,30 @@ https://docs.framasoft.org/fr/umap/
 
 ## Géocodage
 
-- Aller sur le géocodeur du site de la [BAN](https://adresse.data.gouv.fr/csv), importez le fichier "secours-aux-artistes-et-artisans-geocode.csv"
+-   Aller sur le géocodeur du site de la [BAN](https://adresse.data.gouv.fr/csv), importez le fichier "secours-aux-artistes-et-artisans-geocode.csv"
 
-- Le géocodage va se faire à partir des colonnes *adresse* et *ville*
+-   Le géocodage va se faire à partir des colonnes *adresse* et *ville*
 
 ## Réalisation de la carte
 
-- **Importer vos données** : uMap va suivre une logque de calque, chaque jeu de données devra être sur un calque à part, ainsi vous pourrez affiner vos paramétrages. L'import se fait en allant chercher votre fichier, en spécifiant le format.
+-   **Importer vos données** : uMap va suivre une logque de calque, chaque jeu de données devra être sur un calque à part, ainsi vous pourrez affiner vos paramétrages. L'import se fait en allant chercher votre fichier, en spécifiant le format.
 
 ![](img/umap01.png)
 
-- **Paramétrer l'aspect visuel de la carte** : dans les *propriétés avancées de la carte*, vous allez pouvoir paramétrer différents aspects :
-    - Forme des icônes (*Propriétés de forme par défaut*)
-    
-![](img/umap02.png)    
-    - Pop-up avec les informations de votre carte (*Options d'inteaction par défaut*). Si vous choisissez le gabarit par défaut, toutes vos informations vont apparaître pour maîtriser l'apparence, il faut choisir le gabarit manuel.
-    
-![](img/umap03.png)
-    - Fond de carte.
-    
+-   **Paramétrer l'aspect visuel de la carte** : dans les *propriétés avancées de la carte*, vous allez pouvoir paramétrer différents aspects :
+    -   Forme des icônes (*Propriétés de forme par défaut*)
+
+![](img/umap02.png)\
+- Pop-up avec les informations de votre carte (*Options d'inteaction par défaut*). Si vous choisissez le gabarit par défaut, toutes vos informations vont apparaître pour maîtriser l'apparence, il faut choisir le gabarit manuel.
+
+![](img/umap03.png) - Fond de carte.
+
 ![](img/umap04.png)
 
-- **Modifier les propriétés de la carte** : vous devez lui donner un nom et éventuellement changer certains éléments.
+-   **Modifier les propriétés de la carte** : vous devez lui donner un nom et éventuellement changer certains éléments.
 
 ![](img/umap05.png)
 
-- **Partagez votre carte**
+-   **Partagez votre carte**
 
 ![](img/umap06.png)
-
-
-
