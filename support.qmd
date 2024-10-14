@@ -1,0 +1,273 @@
+---
+title: Formation médiation numérique
+subtitle: AAF - novembre 2024
+format: clean-revealjs
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Anne-Laure Donzel
+    email: annelaure@datactivist.coop
+title-slide-attributes:
+  data-background-image: ./img/maxim-berg-ZePAAZDt4XU-unsplash.jpg
+  data-background-size: cover  
+---
+
+# Présentation de la formation {background-color="PowderBlue"}
+
+## Objectifs de la formation
+
+- S'interroger sur les pratiques
+- Découvrir des outils
+- Partager des exemples
+
+## Limites de la formation
+
+- Sélection d'outils forcément partiale
+- Peu de temps pour manipuler
+- La seule limite = créativité
+
+## Déroulé
+
+::: columns
+::: {.column width="50%"}
+
+- **Jeudi 21 novembre**
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Vendredi 22 novembre**
+
+:::
+:::
+
+# Quelles sont les pratiques de médiation dans vos services ? {background-color="LavenderBlush"}
+
+# Introduction {background-color="PowderBlue"}
+
+## Médiation-facilitation et médiation-valorisation
+
+::: columns
+::: {.column width="50%"}
+![](img/arch_paris_med_facilitation.png)
+Légende : outil [d'aide à la recherche des Archives de Paris](https://archives.paris.fr/_depot_ad75/_depot_arko/articles/2622/fiche-d-aide-a-la-recherche-jugement-civil_doc.pdf)
+:::
+
+::: {.column width="50%"}
+![](img/arch_var_med_valo.png)
+Légende : extrait de l'exposition virtuelle des AD83 [*Que justice sois faite ! Méthodes d'investigations varoises (1811-1958)*](https://archives.var.fr/article.php?larub=308&titre=que-justice-soit-faite-methodes-d-investigations-varoises-1811-1958-)
+:::
+:::
+
+::: {.notes}
+traditionnellement : 2 types de médiation. D'un côté celle qui guide le lecteur dans les fonds et de l'autre celle qui suscite l'intérêt du public.
+
+:::
+
+
+## De la médiation à la médiation numérique
+
+- Diffuser autrement
+- Toucher d'autres publics
+- Exploiter de nouveaux formats
+
+Comment définir la médiation numérique ? 
+
+- Utilise les potentialités du numérique
+- Multimédia ou "cross-média"
+- Ne se limite pas aux réseaux sociaux
+
+::: {.notes}
+la diffusion des archives en ligne pose la question d’une autre forme de médiation. Cette diffusion remet partiellement en cause le rapport traditionnel entre « sachant » et « non sachant » ; partiellement, car les documents sont théoriquement accessibles et utilisables par tous. Mais sans grille de lecture pour décoder, le sont-ils vraiment ?
+
+:::
+
+## La médiation pour : accéder aux fonds
+
+La médiation numérique peut servir à présenter les données de gestion du service, notamment pour faciliter l'accès aux fonds.
+
+Exemple : archives de la MEL
+
+## La médiation pour : contextualiser les fonds
+
+Les outils numériques peuvent aussi permettre de réaliser des éléments d'accompagnement à la recherche : présentation d'éléments historiques locaux.
+
+Exemple : [L'Encycl'O des archives municipales d'Orléans](https://archives.orleans-metropole.fr/histoires-dorleans/lencyclo)
+
+[![](img/encyclo.png)]{.r-stretch}
+
+
+## La médiation pour : valoriser un fonds ou un sujet
+
+Les 2 objectifs précédents sont assez nouveaux avec le numérique, en revanche, la valorisation des fonds grâce aux outils numériques se situent dans la droite ligne de ce que les services pouvaient déjà faire, mais avec un petit truc en plus. 
+
+Exemple : 
+
+## Autres exemples 
+
+[Les GIF des AD50](https://www.pinterest.fr/archivesmanche/archives-gif/)
+
+# A votre avis : quelles sont les indispensables pour lancer un projet ? {background-color="LavenderBlush"}
+
+# Les indispensables pour se lancer {background-color="PowderBlue"}
+
+## Une stratégie
+
+Qu'allez-vous chercher à faire ? Quelle sera l'ojectif de vos actions de médiation ? Est-ce que cela s'inscrit dans un projet de service ?
+
+## Une réflexion cohérente
+
+Parfois, les actions de médiation se perdent dans les sites des services et elles sont peu mises en avant. Si votre service y consacre du temps, il faut que cela soit visible.
+
+
+## Des publics
+
+Les publics des archives sont nombreux et variés :  chercheurs (expérimentés ou non), généalogistes, enfants lors d'action pédagogique, curieux...
+
+Le numérique 
+
+## Des compétences
+
+C'est au coeur de cette formation ! derrières les actions de médiation, il y a des agents : qui s'en charge ? avec quels moyens ? quel accompagnement ?
+
+## Des données
+
+Peu importe ce que vous allez chercher à faire : il va vous falloir des données ! et, assez vite, vous allez voir qu'elles ont souvent plein de petits défauts.
+
+> De quelles données disposez-vous dans vos services ?
+
+# Nos tests d'outils {background-color="PowderBlue"}
+
+## Qu'allons nous faire ?
+
+- Créer des avant/après à partir de photos
+
+- Créer des frises chronologiques
+
+- Créer des cartes
+
+- Créer des graphiques
+
+- Créer des dispositifs multimédias
+
+Et nous apprendrons aussi à nettoyer et enrichir des données 
+
+Pour chaque outil, nous aurons des exercices simples et des plus complexes, et vous repartirez avec tous les tuto et pas à pas des exercices simples.
+
+# Créer des avant/après à partir de photos {background-color="LightCyan"}
+
+## Pourquoi faire ?
+
+- Mettre en avant les transformations d'un territoire ou d'un lieu
+
+    - [Evolution du Théâtre de la Commune, Aubervilliers](https://archives.aubervilliers.fr/De-la-salle-des-fetes-au-Theatre-de-la-Commune)
+
+- Valoriser le travail du service des archives 
+
+    - Montrer le travail de restauration
+    
+    - [Communiquer sur le conditionnement](https://www.archives-loiret.fr/nouveau-batiment/les-archives-demenagent/en-attendant-le-demenagement)
+
+## Comment faire ?
+
+Nous allons utiliser l'outil : JuxtaposeJS
+
+# Créer des frises chronologiques {background-color="LightCyan"}
+
+## Pourquoi faire ?
+
+- Positionner des évènements dans le temps
+
+- 
+
+## Comment faire ?
+
+1. Exercice 1 : frise chronologique des députés
+
+2. Exercice 2 : frise de l'AAF
+
+
+
+
+# Merci !
+
+## Crédits images
+
+Photo de couverture <a href="https://unsplash.com/fr/@maxberg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Maxim Berg</a> sur <a href="https://unsplash.com/fr/photos/un-fond-abstrait-rose-et-bleu-avec-des-lignes-ondulees-ZePAAZDt4XU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+  
+  
+
+## Example slide
+
+### This is a subtitle
+
+Here we have some text that may run over several lines of the slide frame,
+depending on how long it is.
+
+- first item 
+    - A sub item
+
+Next, we'll brief review some theme-specific components.
+
+- Note that _all_ of the standard Reveal.js
+[features](https://quarto.org/docs/presentations/revealjs/)
+can be used with this theme, even if we don't highlight them here.
+
+## Additional theme classes
+
+### Some extra things you can do with the clean theme
+
+Special classes for emphasis
+
+- `.alert` class for default emphasis, e.g. [important note]{.alert}.
+- `.fg` class for custom colour, e.g. [important note]{.fg style="--col: #e64173"}.
+- `.bg` class for custom background, e.g. [important note]{.bg style="--col: #e64173"}.
+
+Cross-references
+
+- `.button` class provides a Beamer-like button, e.g.
+[[Summary]{.button}](#sec-summary)
+
+## Want more?
+
+### See our longer demo slides
+
+We've deliberarely kept this template lean, to get you up and running as fast as
+possible.
+
+We provide a separate
+[demo template](https://github.com/grantmcdermott/quarto-revealjs-clean-demo),
+with more examples for integrating code, tables, figures, etc.
+
+  - See the live demo slides
+  [here](https://grantmcdermott.com/quarto-revealjs-clean-demo/template.html).
+
+## Summary {#sec-summary}
+
+### A minimalist and elegant presentation theme
+
+The Quarto reveal.js clean theme aims to be a minimalist and elegant presention
+theme. Here are some options to get you started:
+
+Add the theme to an existing project.
+
+```{.bash}
+quarto install extension grantmcdermott/quarto-revealjs-clean
+```
+
+... or, create a new project using this slide deck as a lean template.
+
+```{.bash}
+quarto use template grantmcdermott/quarto-revealjs-clean
+```
+
+... or, create a new project using the demo slide deck as a full template.
+
+```{.bash}
+quarto use template grantmcdermott/quarto-revealjs-clean-demo
+```

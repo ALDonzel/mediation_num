@@ -1,0 +1,98 @@
+---
+title: "Fiche pratique juxtaposition d’image"
+subtitle: "Utilisation de JuxtaposeJS"
+author:
+    - name: Anne-Laure Donzel
+abstract: "Présentation de l'outil, rapide tuto et ressources pour aller plus loin"
+format:
+  hikmah-pdf: default
+  hikmah-manuscript-docx: default
+  hikmah-manuscript-odt: default
+  hikmah-manuscript-pdf: default
+editor: visual
+---
+
+# 1. Description
+
+**Outil préconisé et testé** : [Juxtapose JS](https://juxtapose.knightlab.com/#make)
+
+De quoi avez-vous besoin pour l'utiliser ?
+
+- De **2 photos** pour réaliser un avant/après. Dans l'idéal, il faut 2 images qui correspondent (sujet, cadrage, dimension...).
+
+- Vous allez également devoir **stocker vos images** et générer une url publique pour créer votre juxtaposition (et c'est là que ça se complique car les liens pérennes ne sont pas des url publiques). Les photos peuvent être stockées sur une Dropbox, sur Github ou sur des services comme [PostImages](https://postimages.org/) ou [Goopics](https://goopics.net/), dans les deux cas, choisir le Lien direct pour le partage sur Juxtapose.
+
+# 2. Exercice
+
+## Exercice 1 - Avec des images présélectionnées
+
+-   Allez sur le dossier img de Github (https://github.com/ALDonzel/aaf-mediation-num/tree/main/img) et choisissez des photos présélectionnées. Elles sont classées par paires (ex. Longchamp 1 / Longchamp 2).
+
+-   Récupérez l'url de l'image.
+
+-   Dans Juxtapose, la "Left image" doit contenir l'url de l'image 1 et la "Right image", l'url de l'image 2.
+
+-   Ensuite, vous avez différents paramètres à modifier si besoin.
+
+-   Cliquez sur "Publish", vous obtenez soit une url, soit un code à intégrer à votre site web.
+
+## Exercice 2 - Avec vos images
+
+-   Trouver une image ancienne et une image plus récente équivalente.
+
+-   Téléchargez-les en local sur votre poste.
+
+-   Hébergez vos images :
+
+Pour l'exercice, vous pouvez les télécharger dans le dossier img de Github, en cliquant sur "Add files" puis "upload files", ensuite sélectionnez les images sur votre poste (renommez-les éventuellement) puis "Commit change".
+
+-   Vous pouvez sinon utiliser un site d'hébergement d'images. Ces sites produisent des url publiques pouvant être utilisées avec Juxtapose (voir ci-dessus).
+
+-   Procédez comme pour l'exercice 1.
+
+-   Si vos images ne correspondent pas, il faut les recadrer. Toute la difficulté de Juxtapose c'est de faire correspondre les images !
+
+# 3. Alternatives
+
+-   [Revision](https://revision.lukasz.cc/)
+
+# 4. Ressources en ligne
+
+-   https://patrimoine-et-numerique.fr/tutoriels/32-27-avant-apres-juxtaposer-deux-photos
+
+- https://numeriques.ac-normandie.fr/?Juxtapose-JS
+
+# 5. Tutoriel
+
+## Outils 
+
+Juxtapose JS : https://juxtapose.knightlab.com/#make
+Github : [Github](https://github.com/ALDonzel/aaf-mediation-num/tree/main/img)
+
+## Exercice 1 - Avec des images présélectionnées
+
+1. Allez sur le dossier [img de Github](https://github.com/ALDonzel/aaf-mediation-num/tree/main/img) et choisissez des photos présélectionnées. Elles sont classées par paires (ex. Longchamp 1 / Longchamp 2). 
+
+2. Récupérez l’url de l’image
+
+![](img/juxt01.png)
+    3.  Dans Juxtapose, la “Left image” doit contenir l’url de l’image 1 et la “Right image”, l’url de l’image 2.
+
+![](img/juxt02.png)
+    4. Ensuite, vous avez différents paramètres à modifier si besoin
+
+    5. Cliquez sur “Publish”, vous obtenez soit une url, soit un code à intégrer à votre site web
+
+## Exercice 2 - Avec vos images 
+
+6. Trouver une image ancienne et une image plus récente équivalente. Téléchargez-les en local sur votre poste.
+
+7. Hébergez vos images : 
+        - Pour l’exercice, vous pouvez les télécharger dans le dossier img de Github, en cliquant sur “Add files” puis “upload files”, ensuite sélectionnez les images sur votre poste (renommez-les éventuellement) puis “Commit change”.
+        - Vous pouvez sinon utiliser un site d’hébergement d’images. Ces sites produisent des url publiques pouvant être utilisées avec Juxtapose
+
+8. Procédez comme sur le tuto précédent
+
+9. Si vos images ne correspondent pas, il faut les recadrer. Toute la difficulté de Juxtapose c’est de faire correspondre les images !
+
+

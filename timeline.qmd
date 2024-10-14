@@ -1,0 +1,73 @@
+---
+title: "Fiche pratique réalisation de frises chronologiques"
+subtitle: "Utilisation de timelineJS"
+author:
+    - name: Anne-Laure Donzel
+abstract: "Présentation de l'outil, rapide tuto et ressources pour aller plus loin"
+format:
+  hikmah-pdf: default
+  hikmah-manuscript-docx: default
+  hikmah-manuscript-odt: default
+  hikmah-manuscript-pdf: default
+editor: visual
+---
+
+# 1. Description
+
+Timeline JS permet de créer des frises chronologiques interactives. Vous pouvez y intégrez du contenu multimédia comme des images, des vidéos...
+
+La frise réalisée est disponible via une URL ou un code html à intégrer à votre site internet.
+
+Pour cela, vous aurez besoin de données temporelles (avec une date de début et une date de fin). Le fichier source, qui contient ces données est un classeur Google Sheet, cela nécessite donc un compte google.
+
+# 2. Exercice
+
+## Exercie 1
+
+Créons une frise de (quelques) députés de la Troisième République, sur ce [modèle](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=14iK4j7BjoIyALvg4GhgJpOQD9MlAo0iAp72Byl_LYJc&font=Default&lang=en&initial_zoom=2&height=650).
+
+## Exercice 2
+
+Créer une frise chronologique de l'AAF, à partir des informations suivantes :
+
+-   Le 10 avril 1904, Henri Stein convoquait les archivistes à une « réunion générale des archivistes français ». La séance eut lieu à l'École des sciences sociales. Le premier point à l'ordre du jour est la création d'une « association amicale professionnelle des archivistes français », adopté à l'unanimité.
+
+-   1904-1908 : Auguste prudhomme est le premier président, biographie sur [Wikipedia](https://fr.wikipedia.org/wiki/Auguste_Prudhomme)
+
+-   1905 : premiers statuts
+
+-   1929 : élection duu premier CA, les administrateurs sont élus par les membres lors de l'Assemblée générale. Il est formé de 6 personnes.
+
+-   1969 : changement de dénomination l'AAPAF, qui devient l'association des archivistes français
+
+# 3. Alternatives
+
+-   [Sutori](https://www.sutori.com/en/stories/sutori)
+
+# 4. Ressources en ligne
+
+-   https://hgeotrement.weebly.com/uploads/1/0/9/8/109862810/tutoriel_timeline_js.pdf
+
+# 5. Tutoriel
+
+1.  À partir du fichier depute_start_timeline.csv. Observez le fichier : qu'y trouvez-vous ?
+
+2.  Allez sur [timelineJS](https://timeline.knightlab.com/)
+
+3.  Vous allez devoir compléter le modèle fourni (le google sheet template) avec vos propres éléments. Vous ne devez pas toucher aux en-têtes de colonnes, ni à l'ordre, ni à leur présence (même si elles ne vous sont pas utiles)
+
+![](img/time01.png)
+
+4.  Une fois votre tableau complété, vous allez devoir le publier. Allez dans fichier/Partager/Publier sur le web et valider la publication
+
+![](img/time02.png)
+
+5.  Une fois publiée, il faut récupérer l'URL de la feuille de calcul
+
+![](img/time03.png)
+
+6.  Retournez sur Timeline JS et collez votre URL
+
+![](img/time04.png)
+
+7.  Vous devriez voir votre frise en cliquant sur Preview. Vous pouvez la partager soit avec l'URL, soit en intégrant le code dans votre site internet.
